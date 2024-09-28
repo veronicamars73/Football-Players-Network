@@ -4,7 +4,7 @@
 
 In 1736, mathematician Leonard Euler tackled a famous problem known as the **Seven Bridges of Königsberg**. The problem arose in Königsberg, a city now called Kaliningrad (formerly in Germany), where two islands were connected by seven bridges to two mainland areas.¹ A representation of the city and the bridges is shown by the image below.
 
-![Wikipédia](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a3b1b74-615a-438a-8b23-07b9188540d8/577d49d1-f73a-42bb-bd41-8d1f62d1798f/image.png)
+![Wikipédia](https://img.notionusercontent.com/s3/prod-files-secure%2F0a3b1b74-615a-438a-8b23-07b9188540d8%2F577d49d1-f73a-42bb-bd41-8d1f62d1798f%2Fimage.png/size/w=600?exp=1727632585&sig=gynHs1PbEN4hw5foRMuehR3ubPzheCJWUyy3ajr7DVw)
 
 Wikipédia
 
@@ -14,7 +14,7 @@ A graph consists of two main elements: **nodes** (or vertices) and **edges**. Th
 
 Here's the graph representation of Euler's famous problem:
 
-![Graph Theory, Konigsberg Problem¹](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a3b1b74-615a-438a-8b23-07b9188540d8/7abc11cb-7ee6-4b90-b1e6-f5c134eada7c/image.png)
+![Graph Theory, Konigsberg Problem¹](https://img.notionusercontent.com/s3/prod-files-secure%2F0a3b1b74-615a-438a-8b23-07b9188540d8%2F7abc11cb-7ee6-4b90-b1e6-f5c134eada7c%2Fimage.png/size/w=390?exp=1727632585&sig=CSNeSCPPWWmxaA2uZrFY0ICTGhm9gq6M55NH5c_TNlQ)
 
 Graph Theory, Konigsberg Problem¹
 
